@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pranay1021
-- 👀 I’m interested in learning related to programming.... (als0 music)
+- 👀 I’m interested in learning anything related to programming😋😋.... (alsoo music🎸🎸)
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on any beginners project
 - 📫 How to reach me ig: _pranay_shah_
 
 <!---
