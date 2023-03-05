@@ -1,5 +1,5 @@
 
-![MasterHead ](https://i.pinimg.com/736x/3a/15/d3/3a15d39306379b2d404073106091105a.jpg)
+![MasterHead ](https://i.pinimg.com/736x/3a/15/d3/3a15d39306379b2d404073106091105a.jpg align="right")
 
 <h1 align="center">Hi 👋, I'm Pranay Shah</h1>
 <h3 align="center">A Software Engineer in making, yearning to learn.</h3>
