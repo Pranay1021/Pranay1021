@@ -1,6 +1,6 @@
-<p align="center">
-![MasterHead ](https://i.pinimg.com/736x/3a/15/d3/3a15d39306379b2d404073106091105a.jpg )
-</p>
+
+![MasterHead ](https://raw.githubusercontent.com/Pranay1021/Pranay1021/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Pranay Shah</h1>
 <h3 align="center">A Software Engineer in making, yearning to learn.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
