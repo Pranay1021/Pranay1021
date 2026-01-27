@@ -34,8 +34,8 @@ motto: "Code with purpose, build with passion"
 
 ### 🎯 What I'm Currently Doing
 
-- 🔭 Working on **AI-powered mobile applications**
-- 🌱 Learning **Advanced React patterns** and **Cloud Architecture**
+- 🔭 Working on **AI-powered applications**
+- 🌱 Learning **Web Development** and **Cloud Architecture**
 - 👯 Open to collaborate on **innovative projects** and **open-source contributions**
 - 💬 Ask me about **Flutter, React, Firebase, and ML integrations**
 - ⚡ Fun fact: **I code better with music 🎶**
