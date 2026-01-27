@@ -27,7 +27,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pranay-shah-0643b5224/" target="_blank">
+  <a href="https://www.linkedin.com/in/pranayshah1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/_pranay_shah_" target="_blank">
